@@ -333,7 +333,7 @@ streamlit run photo_organizer_streamlit.py
 
 ## 📞 需要帮助？
 
-- 📧 **Email**: liuwei71320@qq.com
+- 📧 **Email**: liuwei71320@gmail.com
 - 🐙 **GitHub Issues**: [项目主页]
 - 💬 **讨论**: GitHub Discussions（发布后启用）
 
