@@ -1,0 +1,29 @@
+========================================
+    照片/视频整理工具 - 使用说明
+========================================
+
+【快速开始】
+1. 双击「启动工具.bat」即可运行
+2. 浏览器自动打开 http://localhost:8501
+3. 关闭命令行窗口即可停止服务
+
+【首次使用】
+如果提示缺少 Python，请先安装 Python 3.6+
+下载地址: https://www.python.org/downloads/
+
+【可选依赖】（提升功能）
+- exifread: 提高照片日期准确性
+- pillow-heif: 支持 HEIC/HEIF 格式
+
+安装命令（在命令行执行）：
+pip install exifread pillow-heif
+
+【常见问题】
+Q: 提示"streamlit 未安装"怎么办？
+A: 启动脚本会自动安装，如失败可手动执行: pip install streamlit
+
+Q: HEIC 文件无法处理？
+A: 需要安装 pillow-heif: pip install pillow-heif
+
+【联系方式】
+如有问题请联系:liuwei71320@qq.com
